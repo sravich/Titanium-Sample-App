@@ -1,4 +1,6 @@
-<Alloy>
-	<View class="container">
-	</View>
+<<Alloy>
+   <Window class="container">
+   	  <Label id="foodLabel"></Label>
+      <Label id="restrauantLabel"></Label> 
+   </Window> 
 </Alloy>
