@@ -1,0 +1,9 @@
+	<Alloy>
+    <Collection src="foods"/>
+    <Window class="container">
+        <!-- Asssign the collection to the TableView -->
+        <TableView dataCollection="foods">
+            <TableViewRow name="{name}" restrauant="{restrauant}"></TableViewRow>
+        </TableView>
+    </Window>
+</Alloy>
